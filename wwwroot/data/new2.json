@@ -1,0 +1,236 @@
+[
+  {
+    "Title": "Tytul1",
+    "Author": "Autor1",
+    "BookBorrower": "Pawel Tryniszewski",
+    "ISBN": 1,
+    "LastRental": "2020-04-08T21:42:52.7816749+02:00",
+    "Ratings": null
+  },
+  {
+    "Title": "Tytul2",
+    "Author": "Autor2",
+    "BookBorrower": "Pawel Tryniszewski",
+    "ISBN": 2,
+    "LastRental": "2020-04-08T10:56:31.2678387+02:00",
+    "Ratings": [
+      5
+    ]
+  },
+  {
+    "Title": "Tytul3",
+    "Author": "Autor3",
+    "BookBorrower": null,
+    "ISBN": 3,
+    "LastRental": "0001-01-01T00:00:00",
+    "Ratings": null
+  },
+  {
+    "Title": "Tytul4",
+    "Author": "Autor4",
+    "BookBorrower": "Pawel Tryniszewski",
+    "ISBN": 4,
+    "LastRental": "2020-04-08T21:44:08.6556268+02:00",
+    "Ratings": null
+  },
+  {
+    "Title": "Tytul5",
+    "Author": "Autor5",
+    "BookBorrower": null,
+    "ISBN": 5,
+    "LastRental": "0001-01-01T00:00:00",
+    "Ratings": null
+  },
+  {
+    "Title": "Tytul6",
+    "Author": "Autor6",
+    "BookBorrower": null,
+    "ISBN": 6,
+    "LastRental": "0001-01-01T00:00:00",
+    "Ratings": null
+  },
+  {
+    "Title": "Tytul7",
+    "Author": "Autor7",
+    "BookBorrower": null,
+    "ISBN": 7,
+    "LastRental": "0001-01-01T00:00:00",
+    "Ratings": null
+  },
+  {
+    "Title": "Tytul8",
+    "Author": "Autor8",
+    "BookBorrower": null,
+    "ISBN": 8,
+    "LastRental": "0001-01-01T00:00:00",
+    "Ratings": null
+  },
+  {
+    "Title": "Tytul9",
+    "Author": "Autor9",
+    "BookBorrower": null,
+    "ISBN": 9,
+    "LastRental": "0001-01-01T00:00:00",
+    "Ratings": null
+  },
+  {
+    "Title": "Tytul10",
+    "Author": "Autor10",
+    "BookBorrower": null,
+    "ISBN": 10,
+    "LastRental": "0001-01-01T00:00:00",
+    "Ratings": null
+  },
+  {
+    "Title": "Tytul11",
+    "Author": "Autor11",
+    "BookBorrower": null,
+    "ISBN": 11,
+    "LastRental": "0001-01-01T00:00:00",
+    "Ratings": null
+  },
+  {
+    "Title": "Tytul12",
+    "Author": "Autor12",
+    "BookBorrower": null,
+    "ISBN": 12,
+    "LastRental": "0001-01-01T00:00:00",
+    "Ratings": null
+  },
+  {
+    "Title": "Tytul13",
+    "Author": "Autor13",
+    "BookBorrower": null,
+    "ISBN": 13,
+    "LastRental": "0001-01-01T00:00:00",
+    "Ratings": null
+  },
+  {
+    "Title": "Tytul14",
+    "Author": "Autor14",
+    "BookBorrower": null,
+    "ISBN": 14,
+    "LastRental": "0001-01-01T00:00:00",
+    "Ratings": null
+  },
+  {
+    "Title": "Tytul15",
+    "Author": "Autor15",
+    "BookBorrower": null,
+    "ISBN": 15,
+    "LastRental": "0001-01-01T00:00:00",
+    "Ratings": null
+  },
+  {
+    "Title": "Tytul16",
+    "Author": "Autor16",
+    "BookBorrower": null,
+    "ISBN": 16,
+    "LastRental": "0001-01-01T00:00:00",
+    "Ratings": null
+  },
+  {
+    "Title": "Tytul17",
+    "Author": "Autor17",
+    "BookBorrower": null,
+    "ISBN": 17,
+    "LastRental": "0001-01-01T00:00:00",
+    "Ratings": null
+  },
+  {
+    "Title": "Tytul18",
+    "Author": "Autor18",
+    "BookBorrower": null,
+    "ISBN": 18,
+    "LastRental": "0001-01-01T00:00:00",
+    "Ratings": null
+  },
+  {
+    "Title": "Tytul19",
+    "Author": "Autor19",
+    "BookBorrower": null,
+    "ISBN": 19,
+    "LastRental": "0001-01-01T00:00:00",
+    "Ratings": null
+  },
+  {
+    "Title": "Tytul20",
+    "Author": "Autor20",
+    "BookBorrower": null,
+    "ISBN": 20,
+    "LastRental": "0001-01-01T00:00:00",
+    "Ratings": null
+  },
+  {
+    "Title": "Tytul21",
+    "Author": "Autor21",
+    "BookBorrower": null,
+    "ISBN": 21,
+    "LastRental": "0001-01-01T00:00:00",
+    "Ratings": null
+  },
+  {
+    "Title": "Tytul23",
+    "Author": "Autor23",
+    "BookBorrower": null,
+    "ISBN": 23,
+    "LastRental": "0001-01-01T00:00:00",
+    "Ratings": null
+  },
+  {
+    "Title": "Tytul24",
+    "Author": "Autor24",
+    "BookBorrower": null,
+    "ISBN": 24,
+    "LastRental": "0001-01-01T00:00:00",
+    "Ratings": null
+  },
+  {
+    "Title": "Tytul25",
+    "Author": "Autor25",
+    "BookBorrower": null,
+    "ISBN": 25,
+    "LastRental": "0001-01-01T00:00:00",
+    "Ratings": null
+  },
+  {
+    "Title": "przygody",
+    "Author": "jan smith",
+    "BookBorrower": "Pawel Tryniszewski",
+    "ISBN": 999,
+    "LastRental": "2020-04-08T10:55:02.3186097+02:00",
+    "Ratings": null
+  },
+  {
+    "Title": "nowy",
+    "Author": "nowy",
+    "BookBorrower": "Adam Nowak",
+    "ISBN": 9090,
+    "LastRental": "2020-04-08T11:19:09.2028078+02:00",
+    "Ratings": null
+  },
+  {
+    "Title": "test",
+    "Author": "test",
+    "BookBorrower": "Pawel Tryniszewski",
+    "ISBN": 101,
+    "LastRental": "2020-04-08T11:56:19.6196048+02:00",
+    "Ratings": null
+  },
+  {
+    "Title": "test",
+    "Author": "test",
+    "BookBorrower": null,
+    "ISBN": 202,
+    "LastRental": "0001-01-01T00:00:00",
+    "Ratings": null
+  },
+  {
+    "Title": "a",
+    "Author": "a",
+    "BookBorrower": null,
+    "ISBN": 1,
+    "LastRental": "0001-01-01T00:00:00",
+    "Ratings": null
+  }
+]

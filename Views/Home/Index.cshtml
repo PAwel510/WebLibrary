@@ -1,0 +1,30 @@
+﻿@page
+
+@model WebLibrary.Models.Book
+
+
+
+@using Microsoft.AspNetCore.Components.Web
+@using WebLibrary.Models
+@using WebLibrary.Services
+
+@inject JsonFileBookService BookService
+
+
+<h3>BookList</h3>
+
+<div class="card-columns">
+
+    @foreach (var book in BookService.GetBooks())
+    {
+    <div class="card">
+        <div class="card-body"> <h5 class="card-title"> @book.Title   </h5></div>
+        <div class="card-body"> <h5 class="card-title"> @book.Author   </h5></div>
+
+            <a asp-controller="Books" asp-action="Delete" asp-route-bookId="@book.ISBN" class="bs-tooltip-right">Remove</a>
+
+    </div>
+
+    }
+
+</div>
